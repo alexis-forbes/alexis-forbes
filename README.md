@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @alexis-forbes
 - 👀 I’m interested in high quality projects. 
-- 🌱 I’m currently learning quantic programming, deep knowledge in Java and videogame development. 
+- 🌱 I’m currently working as a Solutions Analyst Assistant but I also have worked as a Web Developer. 
+- 🌱 I’m currently expanding knowledge in Front-End development as I am enrolled in all 4 SheCodes workshops. 
 - 💞️ I’m looking to collaborate on top leading projects.
 - 📫 How to reach me is at -> a.forbes.gil@gmail.com
 <!---
