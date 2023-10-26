@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alexis-forbes
 - 👀 I’m interested in high quality projects. 
-- 🌱 I’m currently working as a Senior Software Engineer in Ikea's Ingka team specifically in the 3Daas team for Customer Explore, Malmö. 
+- 🌱 I’m currently working as a Senior Software Engineer in Ikea's Ingka branch specifically in the 3Daas team for Customer Explore, Malmö. 
 - 💞️ I’m looking to collaborate on top leading projects.
 - 📫 How to reach me is at -> a.forbes.gil@gmail.com
 <!---
